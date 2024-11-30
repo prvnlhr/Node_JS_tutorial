@@ -1,0 +1,6 @@
+This is a sample text file. It contains some random text 
+for demonstration purposes. You can use it to test file 
+reading and processing functionalities in your applications. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Nullam porta lectus at libero vehicula, quis ultricies dolor faucibus. 
+Ut at ligula ut nisi laoreet venenatis at nec justo.
